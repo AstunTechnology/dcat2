@@ -30,7 +30,7 @@
   <gns:name>dcat2</gns:name>
   <gns:id>9785ae4c-dde3-11df-a813-001c2346de4c</gns:id>
   <gns:version>2.0</gns:version>
-  <gns:appMinorVersionSupported>4.0.0</gns:appMinorVersionSupported>
+  <gns:appMinorVersionSupported>3.10.0</gns:appMinorVersionSupported>
   <gns:title xml:lang="en">Data Catalog Vocabulary (DCAT) - Version 2</gns:title>
   <gns:description>DCAT enables a publisher to describe datasets and data services in a catalog using a standard model
     and vocabulary that facilitates the consumption and aggregation of metadata from multiple catalogs. This can
